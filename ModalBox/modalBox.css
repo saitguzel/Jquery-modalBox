@@ -1,0 +1,48 @@
+﻿#element_to_pop_up {
+    display: none;
+}
+
+.b-close {
+    border-radius: 7px;
+    font: bold 131% sans-serif;
+    padding: 1px 6px 2px;
+    background-color: #2b91af;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    right: -7px;
+}
+
+    .b-close:hover {
+        background-color: #1e1e1e;
+    }
+
+.send {
+    border-radius: 7px;
+    font: bold 131% sans-serif;
+    padding: 1px 6px 2px;
+    background-color: #2b91af;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left: 14px;
+}
+
+    .send:hover {
+        background-color: #1e1e1e;
+    }
+
+#elementsIn {
+    box-shadow: -2px 11px 25px #30A5F2;
+    border-radius: 10px;
+    border-style: inherit;
+}
+
+.textBoxes:focus {
+    border-color: #646464;
+    background-color: #ffffc0;
+}

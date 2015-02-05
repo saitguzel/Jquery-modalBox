@@ -1,0 +1,12 @@
+C:\Users\sait\Desktop\Jquery-modalBox\Jquery-modalBox\bin\Jquery-modalBox.dll
+C:\Users\sait\Desktop\Jquery-modalBox\Jquery-modalBox\bin\Jquery-modalBox.pdb
+C:\Users\sait\Desktop\Jquery-modalBox\Jquery-modalBox\obj\Debug\Jquery-modalBox.csprojResolveAssemblyReference.cache
+C:\Users\sait\Desktop\Jquery-modalBox\Jquery-modalBox\obj\Debug\Jquery-modalBox.dll
+C:\Users\sait\Desktop\Jquery-modalBox\Jquery-modalBox\obj\Debug\Jquery-modalBox.pdb
+C:\Users\sait\Desktop\ModalBox\Jquery-modalBox\Jquery-modalBox\bin\Jquery-modalBox.dll.config
+C:\Users\sait\Desktop\ModalBox\Jquery-modalBox\Jquery-modalBox\bin\Jquery-modalBox.dll
+C:\Users\sait\Desktop\ModalBox\Jquery-modalBox\Jquery-modalBox\bin\Jquery-modalBox.pdb
+C:\Users\sait\Desktop\ModalBox\Jquery-modalBox\Jquery-modalBox\obj\Debug\Jquery-modalBox.csprojResolveAssemblyReference.cache
+C:\Users\sait\Desktop\ModalBox\Jquery-modalBox\Jquery-modalBox\obj\Debug\Jquery-modalBox.dll
+C:\Users\sait\Desktop\ModalBox\Jquery-modalBox\Jquery-modalBox\obj\Debug\Jquery-modalBox.pdb
+C:\Users\sait\Desktop\Jquery-modalBox\Jquery-modalBox\bin\Jquery-modalBox.dll.config

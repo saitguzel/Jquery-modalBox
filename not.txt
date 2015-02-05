@@ -1,0 +1,11 @@
+﻿
+
+
+Bu uygulama Jquery.bPopup.js scriptini kullanarak modal box yapmaya örnek amacıyla yapılmıştır.
+
+
+
+
+
+
+
